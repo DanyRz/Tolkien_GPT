@@ -1,4 +1,4 @@
-This project makes for a small GPT model that generates text output somewhat similar in style to J.R.R. Tolkiens "The Lord of the Rings".
+This project makes for a small GPT model that generates text output somewhat similar in style to J.R.R. Tolkien's "The Lord of the Rings".
 
 To run it:
 1. Copy this repo
